@@ -38,13 +38,8 @@ This tool is intended for **OSINT practice, learning, and research purposes only
 ## Installation
 
 1. Make sure you have **Python 3** installed.  
-2. Install the required module:
 
-```bash
-pip install pyinputplus
-````
-
-3. Clone or download this repository and run the script:
+2. Clone or download this repository and run the script:
 
 ```bash
 git clone https://www.github.com/TheGhostAnalyst/google_dorker.git
@@ -58,6 +53,7 @@ Run the script:
 
 ```bash
 cd google_dorker
+pip install -r requirements.txt
 python3 google_dorker.py
 ```
 
