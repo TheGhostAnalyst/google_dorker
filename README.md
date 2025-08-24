@@ -94,8 +94,6 @@ Follow the on-screen prompts to execute your desired option.
 
 This project is free to use for **educational purposes**. Use responsibly.
 
----
-
 Created by **The Ghost Analyst 👻**
 
-```
+
